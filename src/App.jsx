@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Hello world</h1>
       <h2>My first CI/CD operation🥰</h2>
+      <p>One more change to check the working</p>
     </>
   )
 }
